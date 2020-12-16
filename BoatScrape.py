@@ -9,7 +9,7 @@ import pandas as pd
 
 
 
-browser = webdriver.Firefox(executable_path=r'/home/curtiswright/Documents/GulfAi/Marketplace/geckodriver')
+browser = webdriver.Firefox(executable_path=r'/path_to_webdirver')
 browser.get('https://www.facebook.com/marketplace/category/boats')
 
 sleep(60)
@@ -32,4 +32,3 @@ for k in price:
 
 data = pd.DataFrame(prices,titles)
 data.to_csv('new',sep=',', header = True)
-data.shape
