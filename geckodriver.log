@@ -1,0 +1,800 @@
+1607121277605	geckodriver	INFO	Listening on 127.0.0.1:34993
+1607121277608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIiipy2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607121279140	Marionette	INFO	Listening on port 33625
+1607121279227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607121288157	Marionette	INFO	Stopped listening on port 33625
+1607121294105	geckodriver	INFO	Listening on 127.0.0.1:39197
+1607121294107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVzqHc6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607121295604	Marionette	INFO	Listening on port 33395
+1607121295631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607121302596	Marionette	INFO	Stopped listening on port 33395
+1607121509847	geckodriver	INFO	Listening on 127.0.0.1:47295
+1607121509850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVptCGK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607121511270	Marionette	INFO	Listening on port 44199
+1607121511369	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yF/l/en_US/VhCsTHwLbAY.js?_nc_x=Ij3Wp8lg5Kz, line 122: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1607121526065	Marionette	INFO	Stopped listening on port 44199
+1607122601460	geckodriver	INFO	Listening on 127.0.0.1:34881
+1607122601462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea7ePVS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607122603107	Marionette	INFO	Listening on port 33741
+1607122603184	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yF/l/en_US/VhCsTHwLbAY.js?_nc_x=Ij3Wp8lg5Kz, line 122: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1607122627145	Marionette	INFO	Stopped listening on port 33741
+1607122694594	geckodriver	INFO	Listening on 127.0.0.1:52493
+1607122694596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile81W3em"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607122696135	Marionette	INFO	Listening on port 33367
+1607122696237	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yF/l/en_US/VhCsTHwLbAY.js?_nc_x=Ij3Wp8lg5Kz, line 122: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1607122705915	Marionette	INFO	Stopped listening on port 33367
+1607123061879	geckodriver	INFO	Listening on 127.0.0.1:47921
+1607123061886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev43pr0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607123063326	Marionette	INFO	Listening on port 33389
+1607123063411	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yF/l/en_US/VhCsTHwLbAY.js?_nc_x=Ij3Wp8lg5Kz, line 122: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1607123117072	Marionette	INFO	Stopped listening on port 33389
+1607123551315	geckodriver	INFO	Listening on 127.0.0.1:49675
+1607123551317	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFYvlyb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607123552900	Marionette	INFO	Listening on port 41707
+1607123552936	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iojF4/yF/l/en_US/VhCsTHwLbAY.js?_nc_x=Ij3Wp8lg5Kz, line 122: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607123583307	Marionette	INFO	Stopped listening on port 41707
+1607123987408	geckodriver	INFO	Listening on 127.0.0.1:46085
+1607123987410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJAxEcn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607123988874	Marionette	INFO	Listening on port 46475
+1607123988929	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yF/l/en_US/VhCsTHwLbAY.js?_nc_x=Ij3Wp8lg5Kz, line 122: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1607123994085	Marionette	INFO	Stopped listening on port 46475
+1607124320440	geckodriver	INFO	Listening on 127.0.0.1:56585
+1607124320443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuMxl6b"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607124322094	Marionette	INFO	Listening on port 44033
+1607124322166	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yD/l/en_US/dhUGhngniec.js?_nc_x=Ij3Wp8lg5Kz, line 122: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1607124349218	Marionette	INFO	Stopped listening on port 44033
+1607124414061	geckodriver	INFO	Listening on 127.0.0.1:34791
+1607124414063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6zuoZt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607124415600	Marionette	INFO	Listening on port 41397
+1607124415709	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yF/l/en_US/VhCsTHwLbAY.js?_nc_x=Ij3Wp8lg5Kz, line 122: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1607124541578	geckodriver	INFO	Listening on 127.0.0.1:45847
+1607124541580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTMrJ88"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607124543077	Marionette	INFO	Listening on port 44223
+1607124543100	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yF/l/en_US/VhCsTHwLbAY.js?_nc_x=Ij3Wp8lg5Kz, line 122: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1607124561873	Marionette	INFO	Stopped listening on port 44223
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofile6zuoZt/protections.sqlite
+1607124565389	Marionette	INFO	Stopped listening on port 41397
+1607125061746	geckodriver	INFO	Listening on 127.0.0.1:33763
+1607125061748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel7QxAc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607125063207	Marionette	INFO	Listening on port 40289
+1607125063272	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yF/l/en_US/VhCsTHwLbAY.js?_nc_x=Ij3Wp8lg5Kz, line 122: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1607125082544	Marionette	INFO	Stopped listening on port 40289
+1607190574313	geckodriver	INFO	Listening on 127.0.0.1:43729
+1607190574316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0tbAei"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607190575816	Marionette	INFO	Listening on port 32897
+1607190575837	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/y1/l/en_US/XZ5KhW72wzD.js?_nc_x=Ij3Wp8lg5Kz, line 127: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1607193482630	Marionette	INFO	Stopped listening on port 32897
+1607193492837	geckodriver	INFO	Listening on 127.0.0.1:56845
+1607193492839	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQWyuAN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607193494325	Marionette	INFO	Listening on port 37201
+1607193494361	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/y1/l/en_US/XZ5KhW72wzD.js?_nc_x=Ij3Wp8lg5Kz, line 127: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1607193651291	geckodriver	INFO	Listening on 127.0.0.1:45643
+1607193651294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecJmFmQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607193652792	Marionette	INFO	Listening on port 42093
+1607193652821	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/y1/l/en_US/XZ5KhW72wzD.js?_nc_x=Ij3Wp8lg5Kz, line 127: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1607193671957	Marionette	INFO	Stopped listening on port 42093
+1607193688934	geckodriver	INFO	Listening on 127.0.0.1:55909
+1607193688942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAWJcYL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607193690563	Marionette	INFO	Listening on port 45015
+1607193690666	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/y1/l/en_US/XZ5KhW72wzD.js?_nc_x=Ij3Wp8lg5Kz, line 127: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1607195877005	geckodriver	INFO	Listening on 127.0.0.1:32881
+1607195877008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSjLHoR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607195878496	Marionette	INFO	Listening on port 34995
+1607195878529	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iojF4/y1/l/en_US/XZ5KhW72wzD.js?_nc_x=Ij3Wp8lg5Kz, line 127: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1607196642090	Marionette	INFO	Stopped listening on port 34995
+1607196768027	geckodriver	INFO	Listening on 127.0.0.1:45523
+1607196768031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDagkWU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607196769637	Marionette	INFO	Listening on port 46821
+1607196769755	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/y1/l/en_US/XZ5KhW72wzD.js?_nc_x=Ij3Wp8lg5Kz, line 127: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1607196836360	geckodriver	INFO	Listening on 127.0.0.1:59435
+1607196836363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiruhas"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607196837826	Marionette	INFO	Listening on port 46149
+1607196837900	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/y1/l/en_US/XZ5KhW72wzD.js?_nc_x=Ij3Wp8lg5Kz, line 127: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1607196843240	Marionette	INFO	Stopped listening on port 46821
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1607197330859	geckodriver	INFO	Listening on 127.0.0.1:51253
+1607197330861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileerliuD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607197332483	Marionette	INFO	Listening on port 43507
+1607197332606	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/y1/l/en_US/XZ5KhW72wzD.js?_nc_x=Ij3Wp8lg5Kz, line 127: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+1607197828192	Marionette	INFO	Stopped listening on port 43507
+1607197940801	geckodriver	INFO	Listening on 127.0.0.1:35827
+1607197940804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevKev2f"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607197942266	Marionette	INFO	Listening on port 41553
+1607197942356	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yi/l/en_US/GktTHW8Y0zp.js?_nc_x=Ij3Wp8lg5Kz, line 128: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1607198663267	geckodriver	INFO	Listening on 127.0.0.1:42231
+1607198663271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1nA6Hh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607198664865	Marionette	INFO	Listening on port 44741
+1607198664910	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yi/l/en_US/GktTHW8Y0zp.js?_nc_x=Ij3Wp8lg5Kz, line 128: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1607200144823	Marionette	INFO	Stopped listening on port 44741
+1607202909984	geckodriver	INFO	Listening on 127.0.0.1:35079
+1607202909987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSwpI0z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607202911649	Marionette	INFO	Listening on port 44769
+1607202911716	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yi/l/en_US/GktTHW8Y0zp.js?_nc_x=Ij3Wp8lg5Kz, line 128: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1607202924909	Marionette	INFO	Stopped listening on port 44769
+1607202944976	geckodriver	INFO	Listening on 127.0.0.1:55473
+1607202944979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGFALFx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607202946375	Marionette	INFO	Listening on port 42497
+1607202946405	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yi/l/en_US/GktTHW8Y0zp.js?_nc_x=Ij3Wp8lg5Kz, line 128: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1607203049289	geckodriver	INFO	Listening on 127.0.0.1:40949
+1607203049292	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeXZ2Ll"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607203050783	Marionette	INFO	Listening on port 33727
+1607203050832	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yi/l/en_US/GktTHW8Y0zp.js?_nc_x=Ij3Wp8lg5Kz, line 128: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1607203060935	Marionette	INFO	Stopped listening on port 33727
+1607203136297	Marionette	INFO	Stopped listening on port 42497
+1607203157808	geckodriver	INFO	Listening on 127.0.0.1:46233
+1607203157810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6SIRCR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607203159391	Marionette	INFO	Listening on port 41865
+1607203159430	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yi/l/en_US/GktTHW8Y0zp.js?_nc_x=Ij3Wp8lg5Kz, line 128: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1607209068079	Marionette	INFO	Stopped listening on port 41865
+1607292208912	geckodriver	INFO	Listening on 127.0.0.1:36419
+1607292208916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQcj5Oc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607292210425	Marionette	INFO	Listening on port 42431
+1607292210535	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yi/l/en_US/GktTHW8Y0zp.js?_nc_x=Ij3Wp8lg5Kz, line 128: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 2610 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:989:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:566:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:989:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:566:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/styles.js:989:5)", "resource://devtools/shared/protocol/Front.js", 353))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/styles.js:989:5)", "resource://devtools/shared/protocol/Front.js", 353))
+JavaScript error: resource://devtools/client/fronts/node.js, line 418: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/client/fronts/node.js, line 418: TypeError: this.parentFront is null
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914, line 6: Script terminated by timeout at:
+Hh@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:74600
+l.na/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:68682
+pe/</<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:27911
+me/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:27456
+Rd/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:24411
+me@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:27758
+pe/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:27884
+Rd/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:24456
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1607298025154	Marionette	INFO	Stopped listening on port 42431
+1608081942471	geckodriver	INFO	Listening on 127.0.0.1:42059
+1608081943483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWQEYbW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608081945079	Marionette	INFO	Listening on port 33379
+1608081945118	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yZ/l/en_US/L3FKCtGhbkO.js?_nc_x=Ij3Wp8lg5Kz, line 127: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1608086872119	geckodriver	INFO	Listening on 127.0.0.1:40365
+1608086872122	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYRIsWj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608086873840	Marionette	INFO	Listening on port 33801
+1608086873943	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yZ/l/en_US/L3FKCtGhbkO.js?_nc_x=Ij3Wp8lg5Kz, line 127: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1608122250815	geckodriver	INFO	Listening on 127.0.0.1:38491
+1608122250817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehf5PoZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608122252386	Marionette	INFO	Listening on port 45937
+1608122252444	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yZ/l/en_US/L3FKCtGhbkO.js?_nc_x=Ij3Wp8lg5Kz, line 127: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608122255237	Marionette	INFO	Stopped listening on port 45937
+1608131613214	geckodriver	INFO	Listening on 127.0.0.1:58735
+1608131613219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3lgpI4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608131614671	Marionette	INFO	Listening on port 37879
+1608131614738	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yZ/l/en_US/L3FKCtGhbkO.js?_nc_x=Ij3Wp8lg5Kz, line 127: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1608132480169	Marionette	INFO	Stopped listening on port 37879
+1608132564040	geckodriver	INFO	Listening on 127.0.0.1:55173
+1608132564043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevwx4Uc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608132565873	Marionette	INFO	Listening on port 42575
+1608132565967	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yZ/l/en_US/L3FKCtGhbkO.js?_nc_x=Ij3Wp8lg5Kz, line 127: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1608132579011	Marionette	INFO	Stopped listening on port 42575
+1608135656122	geckodriver	INFO	Listening on 127.0.0.1:38539
+1608135656127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXIK9k3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608135657639	Marionette	INFO	Listening on port 40647
+1608135657762	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iojF4/yZ/l/en_US/L3FKCtGhbkO.js?_nc_x=Ij3Wp8lg5Kz, line 127: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1608136651721	Marionette	INFO	Stopped listening on port 40647
+1608138668809	geckodriver	INFO	Listening on 127.0.0.1:49167
+1608138668811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFBpsYp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608138670202	Marionette	INFO	Listening on port 42953
+1608138670231	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yZ/l/en_US/L3FKCtGhbkO.js?_nc_x=Ij3Wp8lg5Kz, line 127: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1608142727841	geckodriver	INFO	Listening on 127.0.0.1:54575
+1608142727845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyY3ifm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608142729502	Marionette	INFO	Listening on port 40347
+1608142729614	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yZ/l/en_US/L3FKCtGhbkO.js?_nc_x=Ij3Wp8lg5Kz, line 127: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileFBpsYp/protections.sqlite
+1608142902462	Marionette	INFO	Stopped listening on port 42953
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608143738125	Marionette	INFO	Stopped listening on port 40347
+1608145063146	geckodriver	INFO	Listening on 127.0.0.1:40049
+1608145063149	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerjvrKB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608145064639	Marionette	INFO	Listening on port 46103
+1608145064668	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yZ/l/en_US/L3FKCtGhbkO.js?_nc_x=Ij3Wp8lg5Kz, line 127: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1608145344521	Marionette	INFO	Stopped listening on port 46103
+1608145351979	geckodriver	INFO	Listening on 127.0.0.1:52715
+1608145351982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebBzOmM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608145353801	Marionette	INFO	Listening on port 38731
+1608145353902	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yZ/l/en_US/L3FKCtGhbkO.js?_nc_x=Ij3Wp8lg5Kz, line 127: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1608146750460	Marionette	INFO	Stopped listening on port 38731
+1608146765755	geckodriver	INFO	Listening on 127.0.0.1:60025
+1608146765760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOyeaiA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608146767454	Marionette	INFO	Listening on port 44061
+1608146767481	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unflushed glGetGraphicsResetStatus: 0x92bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iojF4/yZ/l/en_US/L3FKCtGhbkO.js?_nc_x=Ij3Wp8lg5Kz, line 127: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1608150335659	Marionette	INFO	Stopped listening on port 44061
+1608687348391	geckodriver	INFO	Listening on 127.0.0.1:35739
+1608687348394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKTSWbg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608687350152	Marionette	INFO	Listening on port 33943
+1608687350215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608687548141	geckodriver	INFO	Listening on 127.0.0.1:48417
+1608687548144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSQALTV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608687549545	Marionette	INFO	Listening on port 42401
+1608687549581	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608735207847	Marionette	INFO	Stopped listening on port 42401
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608738695024	geckodriver	INFO	Listening on 127.0.0.1:56451
+1608738695026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1kOiso"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608738696600	Marionette	INFO	Listening on port 41809
+1608738696647	Marionette	WARN	TLS certificate errors will be ignored for this session
