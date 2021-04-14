@@ -17,7 +17,7 @@ def scrape():
 	# Get scroll height
 	last_height = browser.execute_script("return document.body.scrollHeight")
 
-	for s in range(9):
+	while True:
 		# Scroll down to bottom
 		browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 
