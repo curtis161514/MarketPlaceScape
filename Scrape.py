@@ -9,7 +9,7 @@ import pandas as pd
 
 def scrape():
 	print('..*retrieving adds*...')
-	browser = webdriver.Firefox(executable_path=r'/home/curtiswright/Documents/GulfAi/Marketplace/ATVs/geckodriver')
+	browser = webdriver.Firefox(executable_path=r'/home/...../geckodriver')
 	browser.get('https://www.facebook.com/marketplace/category/powersports')
 	
 	sleep(45)
